@@ -4,11 +4,11 @@ Concretely, we are going to make any speaker compatible with Airplay 2, allowing
 
 This involves the following steps:
 - Hardware:
-	- Install any HiFi hat on a Raspberry PI Zero W
+	- Install any HiFi hat on a Raspberry PI Zero W. I have chosen something like [this](https://aliexpress.com/item/1005005703037501.html)
 	- Design and 3D print a component to physically install the Raspberry PI Zero W inside the (smart)speaker
 	- Make any necessary modifications to the PCBs to connect all the three components in a professional way (the Raspberry, the HiFi hat and the (smart)speaker)
 - Software
-	- Install the awesome shairport-sync with all dependencies etc.
+	- Install the awesome [shairport-sync](https://github.com/mikebrady/shairport-sync) with all dependencies etc.
 	- Make the Rapsberry PI Zero W read-only, in order to prevent damages to the microSD card
 
 # License
