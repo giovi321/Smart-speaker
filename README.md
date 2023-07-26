@@ -3,10 +3,6 @@ This repository is a quick how-to with the objective of making any smart speaker
 Concretely, we are going to make any speaker compatible with Airplay 2, allowing multi-room audio (i.e., you can choose one or more speakers to play music from).
 
 This involves the following steps:
-- Hardware:This repository is a quick how-to with the objective of making any smart speaker smarter and any dumb speaker smart.
-Concretely, we are going to make any speaker compatible with Airplay 2, allowing multi-room audio (i.e., you can choose one or more speakers to play music from).
-
-This involves the following steps:
 - Hardware:
 	- Install any HiFi hat on a Raspberry PI Zero W
 	- Design and 3D print a component to physically install the Raspberry PI Zero W inside the (smart)speaker
