@@ -384,6 +384,7 @@ shutdown -r now
 ```
 
 6. Optional extra
+
 You might want to change the name of the device that appears when you play music from your device. You can do this as follows:
 ```
 nano /etc/shairport-sync.conf
