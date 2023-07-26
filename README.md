@@ -38,7 +38,7 @@ I recommend to use some sort of supports to connect the hat to the raspberry, so
 
 ## Designing a support for the raspberry and hat
 This step heavily depends on the design of your speaker and the space available inside the case.
-This is what I have designed for a Olisten 3 byTecTecTec!:
+This is what I have designed for a Olisten 3 by TecTecTec!:
 
 ![Holder](https://github.com/giovi321/Smart-speaker/assets/6443515/5abbed45-eb72-4b0d-a79c-d4cb5a1e6038)
 
@@ -47,6 +47,7 @@ This is what I have designed for a Olisten 3 byTecTecTec!:
 If your're lucky enough (like me with the Olisten 3 by TecTecTec!), you will find very conveniently:
 - line-in to feed sound into the connected speaker
 - 5 volt line that powers some components of the connected speaker, to which you can piggy-back the Raspberry
+
 Shall you not find the line-in, I suggest you to google the pinout of the major components present on the PCB of the connected speaker and see which component has a line-in input.
 Shall you not find a 5 volt line, just get somewhere a 5v voltage regulator such as the LM7805. It will accept currents to up to 35 volts (usually, check the specific one you are buying).
 
