@@ -1,5 +1,6 @@
 This repository is a quick how-to with the objective of making any connected speaker smarter and any dumb speaker smart.
 Concretely, we are going to make any speaker compatible with Airplay 2, allowing multi-room audio (i.e., you can choose one or more speakers to play music from).
+
 What are the use cases of this?
 1. Get rid of cloud connections and unclear communication with external servers (the case of Sonos, awesome product especially the one in collaboration with Ikea, but it sucks that you have to be connected to internet to make it work)
 2. Upgrade outdated connected-speakers such as the Olisten TecTecTec!, very good quality speaker but terrible software.
