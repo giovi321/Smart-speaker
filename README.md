@@ -33,11 +33,13 @@ as published by Sam Hocevar. See the LICENSE file for more details.
 ## Installing the HiFi hat
 It is pretty straight forward. Depending on the level of sound quality you want, you can choose different boards. Since we will be using connected speakers (and they can be good quality, such as the outdated Olisten 3 by TecTecTec! I am using, but they will never be outstanding) a standard HiFi hat for the raspberry does the job admirably.
 I recommend to use some sort of supports to connect the hat to the raspberry, something like this (sometimes they come together with the hat): 
+
 ![Brass supports](https://github.com/giovi321/Smart-speaker/assets/6443515/cc72d36e-4659-429b-9025-eed52762fc94)
 
 ## Designing a support for the raspberry and hat
 This step heavily depends on the design of your speaker and the space available inside the case.
 This is what I have designed for a Olisten 3 byTecTecTec!:
+
 ![Holder](https://github.com/giovi321/Smart-speaker/assets/6443515/5abbed45-eb72-4b0d-a79c-d4cb5a1e6038)
 
 
