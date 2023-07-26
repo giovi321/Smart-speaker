@@ -3,7 +3,7 @@ Concretely, we are going to make any speaker compatible with Airplay 2, allowing
 
 What are the use cases of this?
 1. Get rid of cloud connections and unclear communication with external servers (the case of Sonos, awesome product especially the one in collaboration with Ikea, but it sucks that you have to be connected to internet to make it work)
-2. Upgrade outdated connected-speakers such as the Olisten TecTecTec!, very good quality speaker but terrible software.
+2. Upgrade outdated connected-speakers such as the TecTecTec! Olisten 3, very good quality speaker but terrible software.
 
 Did you like the project?
 
@@ -31,15 +31,18 @@ as published by Sam Hocevar. See the LICENSE file for more details.
 
 # Hardware
 ## Installing the HiFi hat
-It is pretty straight forward. Depending on the level of sound quality you want, you can choose different boards. Since we will be using connected speakers (and they can be good quality, such as the outdated TecTecTec! I am using by Olisten, but they will never be outstanding) a standard HiFi hat for the raspberry does the job admirably.
+It is pretty straight forward. Depending on the level of sound quality you want, you can choose different boards. Since we will be using connected speakers (and they can be good quality, such as the outdated Olisten 3 by TecTecTec! I am using, but they will never be outstanding) a standard HiFi hat for the raspberry does the job admirably.
 I recommend to use some sort of supports to connect the hat to the raspberry, something like this (sometimes they come together with the hat): 
 ![Brass supports](https://github.com/giovi321/Smart-speaker/assets/6443515/cc72d36e-4659-429b-9025-eed52762fc94)
 
 ## Designing a support for the raspberry and hat
 This step heavily depends on the design of your speaker and the space available inside the case.
+This is what I have designed for a Olisten 3 byTecTecTec!:
+![Holder](https://github.com/giovi321/Smart-speaker/assets/6443515/5abbed45-eb72-4b0d-a79c-d4cb5a1e6038)
+
 
 ## Connecting the audio and power of the raspberry to the connected speaker
-If your're lucky enough (like me with the TecTecTec! by Olisten), you will find very conveniently:
+If your're lucky enough (like me with the Olisten 3 by TecTecTec!), you will find very conveniently:
 - line-in to feed sound into the connected speaker
 - 5 volt line that powers some components of the connected speaker, to which you can piggy-back the Raspberry
 Shall you not find the line-in, I suggest you to google the pinout of the major components present on the PCB of the connected speaker and see which component has a line-in input.
