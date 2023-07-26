@@ -159,7 +159,7 @@ tmpfs           /var/tmp        tmpfs   nosuid,nodev         0       0
 ```
 Adding some fancy commands to switch between read-only and read-write modes
 ```
-nnao /etc/bash.bashrc
+nano /etc/bash.bashrc
 ```
 Add the following lines at the end of the file
 ```
@@ -356,7 +356,7 @@ tmpfs           /var/tmp        tmpfs   nosuid,nodev         0       0
 ```
 Adding some fancy commands to switch between read-only and read-write modes
 ```
-nnao /etc/bash.bashrc
+nano /etc/bash.bashrc
 ```
 Add the following lines at the end of the file
 ```
