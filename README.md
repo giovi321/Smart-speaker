@@ -4,6 +4,11 @@ What are the use cases of this?
 1. Get rid of cloud connections and unclear communication with external servers (the case of Sonos, awesome product especially the one in collaboration with Ikea, but it sucks that you have to be connected to internet to make it work)
 2. Upgrade outdated connected-speakers such as the Olisten TecTecTec!, very good quality speaker but terrible software.
 
+Did you like the project?
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/giovi321)
+
+# Quick overview
 I have designed the following steps:
 - Hardware:
 	- Install any HiFi hat on a Raspberry PI Zero W. I have chosen something like [this](https://aliexpress.com/item/1005005703037501.html)
